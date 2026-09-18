@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Full Name:** `Princess Sena`
-- **CCID:** `psena>`
+- **CCID:** `psena`
 
 ## References and Resources
 
