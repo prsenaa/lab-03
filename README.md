@@ -2,12 +2,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Princess Sena`
+- **CCID:** `psena>`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://kotlinlang.org/docs/lambdas.html
+https://kotlinlang.org/docs/destructuring-declarations.html#destructuring-in-lambdas
 
 ## Verbal Collaboration
 
